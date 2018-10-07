@@ -37,11 +37,11 @@ Mobile App Dev - App Brainstorming
    - **Scope:** Spotify is one of the most popular music applications on the market, it's scope is huge and they're constantly adding new artists and songs to attract new users.
 ### Messenger
    - **Category:** Social, Productivity. 
-   - **Mobile:** Allows users to communicate via text. Also, make audio and video calls.
-   - **Story:** Allows users to communicate in a group be that for productivity or fun. 
-   - **Market:** App is accessible to everyone.
-   - **Habit:** Similar to text messaging, users can respond at any time. Can be habit forming for users who want to stay up to date with their conversations. 
-   - **Scope:** Messenger started from Facebook, but for those who wanted to take their conversations outside the newsfeed in private.
+   - **Mobile:** Allows users to communicate via text, audio and video. Website version is accessed via facebook's page, whereas the messenger app is seperate from the facebook app, but must use their facebook account.  
+   - **Story:** Allows users to create and have group conversation in private. Users can switch through other group conversations with ease. 
+   - **Market:** App is accessible to everyone who have facebook accounts and want to have a private group type conversaton online. 
+   - **Habit:** With more than 2 billion accounts on facebook, users are more likely to take their group conversation with messenger because they may already have an account. Similar to text messaging, users can respond at any time, but the app provides a better user interface experience than text messaging. Can be habit forming for users who want to stay up to date with their conversations.  
+   - **Scope:** Messenger started from Facebook to allow users have private conversations outside of newsfeed or their public profile. The app allows an easy access to group conversations than having to go through the regular Facebook app.  
 ### YouTube
    - **Category:** Entertainment, Social
    - **Mobile:** Youtube's mobile strategy is significant. In 2017 Android users accounted for roughly 9.5 billion hours of the 12 billion total hours consumers spent using the top 10 video streaming apps. 
@@ -80,7 +80,7 @@ Mobile App Dev - App Brainstorming
    - **Description**: Informs users where resources for bicycles, motorcycles, and alternative transportation are located using Google Maps API. 
    - **Category:** Reference, Navigation, Health & Fitness
    - **Mobile:** Mobile is essential for navigation and retrieving information on where resource is located.   
-   - **Story:** Find a reliable resources for alternative transportaion where users can get their vehicles fixed in close proximity. Users can track where the next bus is coming live on their mobile device without the need to only rely on approximated times.  
+   - **Story:** Find a reliable resources for alternative transportaion where users can get their vehicles fixed in close proximity. Users can track where the next bus or train is coming live on their mobile device without the need to only rely on approximated times.  
    - **Market:** Any one who rides a bicycle, motorcycle, or public transportation can benefit from this.  
    - **Habit:** By making an informed decision, not only do you help the planet, but you engage your community by exploring and interacting with your surroundings. This leads to a habbit of creating a heathier community, instead of solitary communing. 
    - **Scope:** V1 would start with a small radius around a school where we can collect data and ensure that our user experience is up to par with expectations. It will also only include a select subset of alternative transport solutions in accordance with the regions immediate availability. V2 would further expand options, while engaging local businesses to open up their data to the app for more comprehensive user experience. V3 would add geographic regions and expand on existing ones to acquire more users. 
