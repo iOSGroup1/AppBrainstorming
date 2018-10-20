@@ -1,7 +1,7 @@
 ## SOCIAL MUSIC APP
 
 ### App Description
-// TODO: Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
+Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
 
 ### App Idea Evaluation
 * Category: Social Networking / Music
