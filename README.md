@@ -15,8 +15,7 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 ### User Stories
 // TODO: Enumerate User Stories
-1. User can choose a specific genre and the app will match with a random user who also selected the same genre.
-2. 
+1. User logs into our app and chooses how specific his/her music tastes want to be. Start off with genre, artist, song (similar to Pandora), and then get matched with people who share the same interests. You only have the duration of the song to connect with the person, so time is of the essence! If you are a match, you can continue your conversation afterwards.
 ---
 
 ### Wireframes
