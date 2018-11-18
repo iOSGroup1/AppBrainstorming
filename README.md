@@ -69,7 +69,6 @@ Optional:
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
 
 ![](https://github.com/iOSGroup1/AppDesign/blob/master/Social%20Media%20Music%20App%20(1).png)
 ---
