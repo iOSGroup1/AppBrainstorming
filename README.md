@@ -1,4 +1,4 @@
-## SOCIAL MUSIC APP
+## TUNIN APP
 
 ### App Description
 Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
@@ -70,7 +70,7 @@ Optional:
 
 ### Wireframes
 
-![](https://github.com/iOSGroup1/AppDesign/blob/master/Social%20Media%20Music%20App%20(1).png)
+![](https://github.com/iOSGroup1/AppDesign/blob/master/TuninApp_Wireframes.png)
 ---
 
 ### App Pitch Presentation
