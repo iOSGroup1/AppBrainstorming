@@ -74,6 +74,6 @@ Optional:
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1WqkPMfsisFE-p6pNzt86J4dsADqykHDT0_cxlSBmZo8/edit#slide=id.g487c0cf6f5_0_82
 
 
