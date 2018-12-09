@@ -72,7 +72,7 @@ Optional:
 
 ![](https://github.com/iOSGroup1/AppDesign/blob/master/TuninApp_Wireframes.png)
 
-<img src="https://github.com/iOSGroup1/AppDesign/blob/master/TuninAppDemo.gif" width=400><br>
+<img src="https://github.com/iOSGroup1/AppDesign/blob/master/TuninAppDemo.gif" width=300><br>
 ---
 
 ### App Pitch Presentation
